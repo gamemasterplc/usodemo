@@ -1,8 +1,4 @@
-#Exclude build temporaries
-build/
-
-#Exclude ROM
-*.z64
-
-#Exclude Shared Objects
-data/uso/
+#Exclude binaries
+elf2uso
+makeglobalsym
+maken64fs

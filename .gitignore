@@ -6,3 +6,6 @@ build/
 
 #Exclude Shared Objects
 data/uso/
+
+#Exclude USO Rules
+uso_rules.mak
